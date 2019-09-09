@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
 export class Tab1Page {
 
   constructor() {}
-
+  fb_login(){
+    console.log("here");
+  }
 }
